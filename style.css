@@ -1,0 +1,18 @@
+h1{
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+
+}
+p{
+	font-family: 'Bellefair', serif;
+	color: red;
+	font-size: 20px;
+}
+
+a:hover{
+	color: green;
+}
+
+
+
